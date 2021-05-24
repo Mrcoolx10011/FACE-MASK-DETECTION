@@ -7,7 +7,7 @@
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-> git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+> https://github.com/Mrcoolx10011/FACE-MASK-DETECTION.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'env', type the following commmand in command prompt
