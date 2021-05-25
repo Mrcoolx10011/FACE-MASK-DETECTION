@@ -138,25 +138,12 @@ $ streamlit run app.py
 </p>
 <p align="center">Results</p>
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
 
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
-## :trophy: Awards
-Awarded Runners Up position in [Amdocs Innovation India ICE Project Fair]( https://www.amdocs.com/)
+
 
 ![](Readme_images/nn.jpeg)
 
-## :raising_hand: Cited by:
-
-1. https://osf.io/preprints/3gph4/
-2. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49
-3. https://ieeexplore.ieee.org/abstract/document/9312083/
-4. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_48
-5. https://www.researchgate.net/profile/Akhyar_Ahmed/publication/344173985_Face_Mask_Detector/links/5f58c00ea6fdcc9879d8e6f7/Face-Mask-Detector.pdf
 
 ## 👏 Appreciation
 
@@ -173,13 +160,12 @@ Seleted in [Student Code-in](https://scodein.tech/)
 ![](Readme_images/sci.jpeg)
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
+Made with https://github.com/Mrcoolx10011/FACE-MASK-DETECTION.git
 
 ## :+1: Credits
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
-## :handshake: Our Contributors
 
 [CONTRIBUTORS.md](/CONTRIBUTORS.md)
 
@@ -189,15 +175,6 @@ Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
-## :raising_hand: Citation
-
-You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Chandrika Deb by mentioning a link to this repository and her GitHub Profile.
-
-Follow this format:
-- Author's name - Chandrika Deb
-- Date of publication or update in parentheses.
-- Title or description of document.
-- URL.
 
 ---
 
@@ -229,6 +206,5 @@ Follow this format:
 
 ---
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
+
 
